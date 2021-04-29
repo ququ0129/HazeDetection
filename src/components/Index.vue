@@ -8,7 +8,7 @@
       <el-row>
         <el-card class="box-card">
           <div align="left">
-            <span>根据当前ip获取位置:{{ location }}</span>
+            <span>根据当前ip获取位置: {{ location }}</span>
           </div>
         </el-card>
       </el-row>
